@@ -1,0 +1,36 @@
+/* add your CSS here */
+h3{
+  font-size:200%;
+  text-align:center;
+  font-family:Helvetica;
+}
+
+p{
+  font-size:110%;
+}
+
+img {
+  width: 300px;
+  margin-left: 50vw;
+  transform: translate(-50%);
+}
+
+#interesting-fact{
+  font-style:italic;
+}
+
+#animal-list-items{
+  list-style:none;
+}
+
+#animal-list-items span{
+  font-weight:bold;
+}
+
+img,
+h3,
+#description{
+  padding: 10px;
+  border: 1px solid blue;
+}
+
