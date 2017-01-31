@@ -1,4 +1,8 @@
 /* add your CSS here */
+.animal-card{
+  width:322px;
+}
+
 h3{
   font-size:200%;
   text-align:center;
@@ -11,8 +15,6 @@ p{
 
 img {
   width: 300px;
-  margin-left: 50vw;
-  transform: translate(-50%);
 }
 
 #interesting-fact{
@@ -29,7 +31,7 @@ img {
 
 img,
 h3,
-#description{
+#information{
   padding: 10px;
   border: 1px solid blue;
 }
