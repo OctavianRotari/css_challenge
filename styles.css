@@ -1,15 +1,15 @@
 /* add your CSS here */
-.animal-card{
-  width:322px;
+.animal-card {
+  width: 322px;
 }
 
-h3{
-  font-size:200%;
-  text-align:center;
-  font-family:Helvetica;
+h3 {
+  font-size: 200%;
+  text-align: center;
+  font-family: Helvetica;
 }
 
-p{
+p {
   font-size:110%;
 }
 
@@ -17,21 +17,21 @@ img {
   width: 300px;
 }
 
-#interesting-fact{
-  font-style:italic;
+.interesting-fact {
+  font-style: italic;
 }
 
-#animal-list-items{
-  list-style:none;
+span.animal-list-items {
+  list-style: none;
 }
 
-#animal-list-items span{
-  font-weight:bold;
+.list-items-bold {
+  font-weight: bold;
 }
 
 img,
 h3,
-#information{
+.information {
   padding: 10px;
   border: 1px solid blue;
 }
